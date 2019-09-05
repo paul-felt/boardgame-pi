@@ -1,0 +1,5 @@
+prereqs
+
+1. set up raspberry pi board with a gpio expander bonnet
+
+2. install prereqs by doing `pip3 install -r requirements.txt`
