@@ -3,3 +3,7 @@ prereqs
 1. set up raspberry pi board with a gpio expander bonnet
 
 2. install prereqs by doing `pip3 install -r requirements.txt`
+
+3. enable I2C on your pi (menu -> Preferences -> Raspberry Pi Configuration
+
+4. run main.py

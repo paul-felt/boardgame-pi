@@ -1,2 +1,4 @@
 adafruit-circuitpython-lis3dh
 adafruit_circuitpython_mcp230xx
+adafruit-blinka
+adafruit-circuitpython-ht16k33
